@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CoolWeather.iml" filepath="$PROJECT_DIR$/CoolWeather.iml" />
       <module fileurl="file://D:\coolweather\CoolWeather.iml" filepath="D:\coolweather\CoolWeather.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://D:\coolweather\app\app.iml" filepath="D:\coolweather\app\app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/coolweather.iml" filepath="$PROJECT_DIR$/coolweather.iml" />
     </modules>
   </component>
 </project>
